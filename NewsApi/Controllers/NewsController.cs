@@ -14,7 +14,7 @@ namespace NewsApi.Controllers
   [ApiController]
   public class NewsController : ControllerBase
   {
-    const string apiKey = "0d91cbee476b443a8ba43c4f1667da9c";
+    const string apiKey = "01c1afc35f6e4f66915499f6bf48bedf";
     const string language = "es";    
 
     [Route( "top-headlines" )]
